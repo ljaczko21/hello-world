@@ -2,4 +2,4 @@
 just learning
 
 This is my first attempt of making a repository without nick
-I hope it works!
+I hope it works
